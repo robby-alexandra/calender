@@ -203,5 +203,5 @@
         "date": "2021-12-27",
         "description": "Cuti Bersama (Malam Natal)",
         "type": "joint-holiday"
-    }, 
+    }
 ]
