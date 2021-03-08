@@ -114,12 +114,7 @@
         "description": "Isra Mi'raj Nabi Muhammad",
         "type": "national-holiday"
     },
-    {
-        "date": "2021-03-12",
-        "description": "Cuti Bersama",
-        "type": "joint-holiday"
-    },
-    {
+       {
         "date": "2021-03-14",
         "description": "Hari Suci Nyepi (Tahun Baru Saka)",
         "type": "national-holiday"
@@ -154,17 +149,7 @@
         "description": "Idul Fitri (Lebaran Mudik)",
         "type": "national-holiday"
     },
-    {
-        "date": "2021-05-17",
-        "description": "Cuti Bersama",
-        "type": "joint-holiday"
-    },
-    {
-        "date": "2021-05-18",
-        "description": "Cuti Bersama",
-        "type": "joint-holiday"
-    },
-    {
+       {
         "date": "2021-06-01",
         "description": "Hari Lahir Pancasila",
         "type": "national-holiday"
